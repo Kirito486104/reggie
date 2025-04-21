@@ -1,3 +1,4 @@
 /target/
 /src/main/resources/application.yml
 /.idea/
+/src/main/resources/backend/
