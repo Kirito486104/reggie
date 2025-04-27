@@ -60,6 +60,7 @@ public class AliOSSUtils {
         // 返回文件访问路径
         String url = endpoint.split("//")[0] + "//" + bucketName + "." + endpoint.split("//")[1] + "/" + fileName;
         return url;
+
     }
 
 }
